@@ -3,7 +3,7 @@ Module.register("MMM-433MHz", {
 
     // Default module config.
     defaults: {
-        receiver: true
+        receiver: false
     },
 
     /**

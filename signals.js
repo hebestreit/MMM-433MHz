@@ -12,6 +12,7 @@ signals.prototype.send_process = null;
 
 /**
  * Receive signal codes
+ * @todo get this feature working
  * @param callback
  */
 signals.prototype.receive = function (callback) {
